@@ -1,0 +1,23 @@
+
+table
+{
+     position: relative;
+     margin-left: 25%;
+     background-color: wheat;
+}
+thead
+{
+    background-color: rgb(17, 11, 23);
+    color:white;
+}
+tr:hover
+{
+    background-color: rgb(136, 66, 115);
+}
+legend
+{
+    font-size: 40px;
+    font-weight: 600;
+    text-align: center;
+
+}
