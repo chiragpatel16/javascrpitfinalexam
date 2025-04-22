@@ -19,3 +19,7 @@ Frontend: HTML, CSS, JavaScript (or React, if applicable)
 API: COVID-19 API, [covid19india.org API](if using)
 
 Others: Bootstrap, Chart.js (optional for visualization)
+
+demo video
+
+<img src="covid.gif">
