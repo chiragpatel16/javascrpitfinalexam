@@ -22,5 +22,8 @@ CSS3 – Custom styling and responsive layout
 
 JavaScript (Vanilla) – App logic and localStorage integration
 
+demo 
+
+https://github.com/user-attachments/assets/d3a16f66-3b62-4d43-a932-30b1c42df0c8
 
 drive link https://drive.google.com/drive/folders/1CXx5wy8wKcnH8DYVozyIDvkgcQrXt3Fm
